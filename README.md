@@ -1,6 +1,6 @@
 # Explorando Padrões de Projetos na Prática com Java
 
-![poc.png](poc)
+![poc](poc.png)
 
 Padrão escolhido : Java puro
 Versão : Java 17
